@@ -27,6 +27,16 @@ This repository contains a **Unity prefab** for creating **dynamic and realistic
 3. Drag and drop the prefab into your scene.
 4. Adjust the particle system settings in the Inspector as needed.
 
+## Sample Images
+
+Below you can find sample images from the project:
+
+![wind.png](media/wind.png)
+
+![wind1.png](media/wind1.png)
+
+![wind2.png](media/wind2.png)
+
 ---
 
 ## 🇹🇷 Türkçe
@@ -52,6 +62,15 @@ Bu depo, **Unity için gerçekçi rüzgar partikül efektleri** içeren bir **pr
 3. Prefab’ı sahnenize sürükleyip bırakın.  
 4. Inspector panelinden partikül sistemi ayarlarını ihtiyacınıza göre düzenleyin.
 
+## Örnek Görseller
+
+Aşağıda, projenin örnek görsellerini bulabilirsiniz:
+
+![wind.png](media/wind.png)
+
+![wind1.png](media/wind1.png)
+
+![wind2.png](media/wind2.png)
 ---
 
 ## 📄 License
